@@ -1,7 +1,7 @@
 
 # Django-CRM
 
-Django-CRM is an open-source, fully functional Customer Relationship Management (CRM) web application built with Django. It helps manage customers, leads, contacts, and sales pipelines efficiently. This project is a great example for learning Django and building scalable web applications.
+Django-CRM is fully functional Customer Relationship Management (CRM) web application built with Django. It helps manage customers, leads, contacts, and sales pipelines efficiently. 
 
 ---
 
