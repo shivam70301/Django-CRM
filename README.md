@@ -80,6 +80,6 @@ Home page:
  ![Home-Record](https://github.com/user-attachments/assets/4cc6bada-d647-4aa4-a7cc-2bd76f3b9da1)
 Add Record:
  ![Add Record](https://github.com/user-attachments/assets/1a2b6e0c-a20a-4576-8802-c6baf4a51103)
-Update record:
+View /Update record:
  ![Update](https://github.com/user-attachments/assets/491bcd4e-687e-4c63-9573-04778dcb867d)
 
