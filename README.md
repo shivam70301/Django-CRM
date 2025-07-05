@@ -66,14 +66,11 @@ Visit `http://127.0.0.1:8000/` in your browser.
 
 ## 🔑 Admin Access
 
-After creating a superuser, access the Django admin panel at:  
+After creating a superuser, access the Django admin panel at:  ![Login](https://github.com/user-attachments/assets/1df0f2a5-4553-49d3-b0b7-ab4a19980355)
+
 `http://127.0.0.1:8000/admin/`
 
 ---
 
 ## 🔑 Images 
-
-![Login](Login.png)
-![Home page](Home-Record.png) 
-![Add Record](<Add Record.png>)
-![Update record](Update.png)
+ ![Login](https://github.com/user-attachments/assets/1df0f2a5-4553-49d3-b0b7-ab4a19980355)
